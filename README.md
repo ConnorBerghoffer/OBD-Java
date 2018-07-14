@@ -143,7 +143,8 @@ tvSpeed.setText(speedCommand.getFormattedResult());
 # And We're Done!
 ## Final Words...
 - If bluetooth is not enabled **This Will Not Work**. Let me know if you would like the app to auto enable bluetooth on launch.
-- If you are not close to the bluetooth OBD, or the bluetooth OBD is not on **This Will Not Work**. Pleas make sure your OBD is connected and the car is running. <br>
+- If you are not close to the bluetooth OBD, or the bluetooth OBD is not on **This Will Not Work**. Pleas make sure your OBD is connected and the car is running.
+- You might have to check if your app has the correct permissions to use your phones bluetooth. If the app crashes, then check your permissions.
 
 # Example Code:
 ## build.gradle
